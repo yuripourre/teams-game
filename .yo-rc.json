@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Yuri Pourre"
+    },
+    "libraryName": "sampleGame",
+    "generator-version": "4.1.0"
+  }
+}
